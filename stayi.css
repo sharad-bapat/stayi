@@ -1,0 +1,38 @@
+
+
+.main {
+    
+    position: relative !important;
+    width: calc(100vw - 40px) !important;
+    background: #fff !important;
+    color: #666666 !important;
+    border-radius: 2px !important;
+    margin-top: 20px !important;
+   
+    margin-left: 20px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1) !important;
+    
+}
+.navbar {
+    margin-bottom: 15px;
+}
+
+.scroller li:nth-child(even) {
+    background: #f8f9fa;
+}
+
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+  }
+
+  .feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+    margin: auto;
+  }
+
+ .listt li:nth-child(even) {
+    background: #f8f9fa;
+}
